@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "elasticsearch.password",
+      "type": "java.lang.String",
+      "description": "Description for elasticsearch.password."
+    },
+    {
+      "name": "elasticsearch.username",
+      "type": "java.lang.String",
+      "description": "Description for elasticsearch.username."
+    },
+    {
+      "name": "elasticsearch.port",
+      "type": "java.lang.String",
+      "description": "Description for elasticsearch.port."
+    },
+    {
+      "name": "elasticsearch.host",
+      "type": "java.lang.String",
+      "description": "Description for elasticsearch.host."
+    },
+    {
+      "name": "youtube.apikey",
+      "type": "java.lang.String",
+      "description": "Description for youtube.apikey."
+    }
+  ]
+}
